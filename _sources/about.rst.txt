@@ -1,0 +1,9 @@
+
+.. _about:
+
+About Dan Poirier
+=================
+
+I'm the guy who writes this blog.
+
+Really.
