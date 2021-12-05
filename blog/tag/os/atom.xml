@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://blog.poirier.us</id>
   <title>Dan's Blog - Posts tagged os</title>
-  <updated>2021-12-05T21:26:20.094002+00:00</updated>
+  <updated>2021-12-05T21:31:55.072839+00:00</updated>
   <link href="https://blog.poirier.us"/>
   <link href="https://blog.poirier.us/blog/tag/os/atom.xml" rel="self"/>
-  <generator uri="https://ablog.readthedocs.org/" version="0.10.20">ABlog</generator>
+  <generator uri="https://ablog.readthedocs.org/" version="0.10.22.dev0+ge2e3e43.d20211205">ABlog</generator>
   <entry>
     <id>https://blog.poirier.us/posts/2021/nix/</id>
     <title>Nix language</title>
